@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project, accounts] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-youtube: @bystarlex
+# facebook: @bystarlex
 twitter: starlexdev
 instagram: starlexdev
 # linkedin: starlexdev
