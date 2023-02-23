@@ -2,7 +2,7 @@
 title: "Cuenta con Spec Ops: The Line"
 layout: post
 date: 2023-02-23 14:16
-image: /assets/images/20230213_232838.png
+image: /assets/images/20230223_141904.png
 headerImage: true
 tag:
 - Gears of War
