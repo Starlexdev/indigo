@@ -7,6 +7,8 @@ headerImage: true
 tag:
 - Reglas
 - Comunidad
+- Starlex
+- Games360
 star: true
 category: blog
 author: starlex
@@ -15,13 +17,13 @@ description: Lea nuestros terminos y condiciones
 
 #### Estas reglas serviran para que nuestros usuarios, Disfruten nuestro contenido sin tener algun problema.
 
-###### *#1:) No compartir externamente las cuentas ya que estas cuentas son exclusivamente de esta comunidad creada por Alejandro Shadow (Starlex)
+###### *#1:) No compartir externamente las cuentas ya que estas cuentas son exclusivamente de esta comunidad creada por Alejandro Shadow (Starlex), y JP (Games360)
 
 ###### *#2:) Turnarse en los grupos de las cuentas, para que evitemos la saturacion recuerda utilizar los metodos de juego, [ir a metodos de juego](https://starlex.team/mdj).
 
 ###### *#3:) Esto no es oblitario, pero igual si quieres apoyar, puedes suscribirte a nuestro canal de youtube [ir a StarlexYT](https://youtube.com/@bystarlex).
 
-###### *#4:) No ofensas de ningun tipo. (racismo,regionalismo, referencias lgbt. etc)
+###### *#4:) No ofensas de ningun tipo. (politica,racismo,regionalismo, referencias lgbt. etc) que pueda resultar ofensivo para alguien.
 
 ###### *#5) No enviar contenido +18 o hablar sobre el tema censurado.
 
@@ -29,6 +31,13 @@ description: Lea nuestros terminos y condiciones
 
 ###### *#7:) No hacer ventas o intercambios, ya que no nos hacemos responsables si los estafan ya queda en su criterio.
 
-###### *#8:) Si tienes la licencia Lunar Ecplipse. recuerda dejarme creditos por el contenido [Como conseguir dicha licensia](https://starlex.team/license)
+###### *#8:) Enviar captura sobre tu progreso en tu descarga. esto se hace primordialmente para evitar saturacion
+
+###### *#9:) Preguntar quien esta utilizando la cuenta y pedir turno para no molestar a los demas.
+
+###### *#10:) Nada de spam, este grupo esta echo para mantener un orden, con las cuentas. entonces si hay caos con los mensajes , hay caos con las cuentas
+
+###### *#11:) Consultas, puedes etiquetar a JP, o a Alex (Starlex).tambien pueden envian mensaje al privado
+
 
 [![Letters Change](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D200FF&center=true&width=435&lines=Starlex;Desarollador;Gamer;Animetuber;Gamedev;Designer;Escritor+de+blogs;Starlex+%C2%A9+Alejandro+Shadow)](https://bystarlex.us)
