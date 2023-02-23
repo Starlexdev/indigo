@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - Gears of War
 - CoD WaW
-- Spec Ops: The Line
+- Spec Ops The Line
 - Xbox 360
 star: true
 category: blog
